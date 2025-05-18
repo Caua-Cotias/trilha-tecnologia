@@ -1,21 +1,45 @@
-MIT License
+# 🚀 Trilha de Domínio em Tecnologia
 
-Copyright (c) 2025 CauaCotias
+Este repositório acompanha meu progresso em uma trilha completa de aprendizado em tecnologia, com foco em projetos próprios.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 📅 Fases e Semanas
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### ✅ Fase 1 – Fundamentos
+- [x] Semana 1: Lógica + Git
+- [x] Semana 2: Estruturas de Dados
+- [x] Semana 3: Paradigmas de Programação
+- [ ] Semana 4: Projeto Final da Fase 1
+
+### 🔧 Fase 2 – Fullstack (em andamento)
+- [x] Semana 1: API REST com Node.js
+- [ ] Semana 2: Banco de dados com Prisma + PostgreSQL
+- [ ] Semana 3: Frontend com React
+- [ ] Semana 4: Autenticação e Autorização
+- [ ] Semana 5: Deploy completo
+- [ ] Semana 6: Projeto Final da Fase 2
+
+### 🔜 Fase 3 – Avançado (AI, DevOps, Segurança, Mobile)
+
+---
+
+## 📌 Objetivo
+
+Dominar o ecossistema da tecnologia e criar projetos próprios em diversas áreas, com domínio de backend, frontend, banco de dados, AI, redes, DevOps e mais.
+
+---
+
+## 📂 Organização
+
+Cada semana contém:
+- Códigos desenvolvidos
+- Anotações em Markdown
+- Desafios extras
+- Prints ou links de deploys (quando aplicável)
+
+---
+
+## ✍️ Progresso
+
+Atualizado semanalmente conforme avanço na trilha.
